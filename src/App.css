@@ -1,0 +1,186 @@
+ /* ---------Login--------------- */
+ .LoginPageColor {
+    background-color: #161616 !important;
+    text-align: center;
+    margin: auto;
+    height: 100vh;
+ }
+
+  
+
+ .loginButtondiv {
+    margin-top: 10px;
+ }
+
+ .CardNumber {
+    color: white;
+    font-size: 70px !important;
+    font-weight: 100;
+ }
+
+ /* ----------------------Language------------ */
+
+ .Language {
+    background-color: #161616;
+    min-height: 100vh;
+ }
+
+ .Removecard {
+    background-color: #353034 !important;
+    margin-top: 50px !important;
+    margin-left: 60px !important;
+    border-radius: 35px !important;
+    font-size: 18px !important;
+    padding: 18px 36px !important;
+    min-height: 7vh !important;
+ }
+
+ .Text {
+    color: white;
+    font-size: xx-large;
+    text-align: center;
+
+ }
+
+ .English {
+    background-color: #353034 !important;
+    margin-top: 50px !important;
+    border-radius: 35px !important;
+    font-size: 18px !important;
+    padding: 0px 10% !important;
+    min-height: 7vh !important;
+    width: 25vw;
+ }
+
+ .ButtonForLanguage {
+    justify-content: center;
+    display: flex;
+    gap: 20px;
+
+ }
+
+ .Tamil {
+    width: 25vw;
+    background-color: #353034 !important;
+    margin-top: 50px !important;
+    border-radius: 35px !important;
+    font-size: 18px !important;
+    padding: 0px 10% !important;
+    min-height: 7vh !important;
+ }
+
+ .Removecard:hover {
+    background-color: #ffa500 !important;
+ }
+
+ .English:hover {
+    background-color: #ffa500 !important;
+ }
+
+ .Tamil:hover {
+    background-color: #ffa500 !important;
+ }
+
+ /* --------------balance----- */
+
+ .Pin {
+    margin: 30px !important;
+    color: white;
+    font-size: 2em;
+    text-align: center;
+ }
+
+ .CheckPin {
+
+    background-color: #353034 !important;
+    margin-top: 50px !important;
+    border-radius: 35px !important;
+    font-size: 18px !important;
+    padding: 0px 5% !important;
+    min-height: 7vh !important;
+ }
+
+ .CheckPinDiv {
+    text-align: center;
+ }
+
+ .PinText {
+
+    color: white;
+    text-align: center;
+ }
+
+ .ImageShowBalance {
+    margin-top: 90px;
+    border-radius: 20px;
+ }
+
+ /* -----------------withdraw --------- */
+
+ .FlexDiv {
+    display: flex;
+    justify-content: center;
+    gap: 10%;
+ }
+
+ .WithdrawAmountText {
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-size: 22px;
+    margin-left: -30px
+ }
+
+ .WithdrawAmountText1 {
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-size: 22px;
+    margin-left: -10px
+ }
+
+ .EnterWithdrawalAmount {
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-size: 22px;
+
+ }
+
+ .Withdraw {
+    width: 10vw;
+    background-color: #353034 !important;
+    margin-top: 50px !important;
+    border-radius: 35px !important;
+    font-size: 18px !important;
+
+ }
+
+
+ .newWithdraw {
+    width: auto;
+ }
+
+ /* --------------------deposit------------- */
+ .Text1 {
+    color: white;
+    font-size: xx-large;
+    text-align: center;
+    margin-top: 10px;
+
+ }
+
+ .css-quhxjy-MuiInputBase-root-MuiOutlinedInput-root {
+    border-radius: 35px !important;
+ }
+
+ .CashDeposit {
+
+    margin-top: 20px;
+ }
+ 
+ 
+ 
